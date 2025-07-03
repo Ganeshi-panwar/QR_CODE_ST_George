@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>St. George's College</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Logo and Heading -->
+    <div class="header">
+      <img src="logo.jpeg" alt="College Logo" class="logo">
+      <h1 class="heading">St. George's College</h1>
+    </div>
+
+    <!-- Slideshow Container -->
+    <div class="slideshow">
+      <div class="slides">
+        <img src="st1.jpg" class="slide" alt="Slide 1">
+        <div class="caption">Welcome to St. George's</div>
+      </div>
+      <button class="next-page" onclick="window.location.href='page2.html'">Next Page</button>
+    </div>
+  </div>
+  <script>
+    const images = [
+      { src: "images/st7.jpg", caption: "Welcome to St. George's" },
+      { src: "images/st2.jpg", caption: "Sports Facilities" },
+      { src: "images/st3.jpg", caption: "Library" },
+      { src: "images/st5.jpg", caption: "Cultural Events" },
+      { src: "images/st6.jpg", caption: "Workshops" },
+       { src: "images/st7.jpg", caption: "Workshops" },
+        { src: "images/st8.jpg", caption: "Workshops" },
+         { src: "images/st9.jpg", caption: "Workshops" },
+          { src: "images/st10.jpg", caption: "Workshops" },
+           { src: "images/st11.jpg", caption: "Workshops" },
+            { src: "images/st12.jpg", caption: "Workshops" },
+             { src: "images/st13.jpg", caption: "Workshops" },
+              { src: "images/st14.jpg", caption: "Workshops" },
+   
+    ];
+
+    let current = 0;
+    const slideImg = document.querySelector('.slide');
+    const caption = document.querySelector('.caption');
+
+    setInterval(() => {
+      current = (current + 1) % images.length;
+      slideImg.src = images[current].src;
+      caption.textContent = images[current].caption;
+    }, 3000); // Change slide every 3 seconds
+  </script>
+    <a href="students.html" class="next-button">→ Next</a>
+</body>
+</html>
