@@ -1,2 +1,12 @@
 # QR_CODE_ST_George
-Nestled in the serene village of Barlowganj, with the majestic Himalayas as its backdrop, St. George's College has a legacy that spans over a century. Founded in 1853 by the Capuchin Fathers to provide quality education to British Catholic children following the Public School System in Britain.
+
+## 172+ Years of Dedicated Service
+Nestled in the serene village of Barlowganj, with the majestic Himalayas as its backdrop, St. George's College has a legacy that spans over a century. Founded in 1853 by the Capuchin Fathers to provide quality education to British Catholic children following the Public School System in Britain, the institution was entrusted to the Brothers of the Patrician Congregation in 1893. Affectionately known as Manor House, St. George's College is an all-boys' residential school affiliated with the Council for the Indian School Certificate Examinations (CISCE). The students, proudly known as Manorites, are nurtured in an environment that balances tradition with modernity, fostering integrity, discipline, and academic excellence.
+
+Generations of young men have graduated from the portals of this venerable institution, imbued with the cherished qualities of undiminished fortitude, honour, and resilience. Distinguished among these, is a long list of celebrated sportsmen, religious leaders, educationists, statesmen and bureaucrats, stalwarts of the Defence Forces, actors and musicians.
+
+With the mission of promoting lifelong learning in an open and caring atmosphere that motivates students to be confident and responsible global citizens, Manor House strives to create a home away from home where universal brotherhood is imbibed and nurtured for a lifetime along with the desire to contribute positively through selfless service, putting the totality of God-given talents and acquired knowledge to the service of humanity.
+# Sowing The Seeds (1853)
+Stepping back in time to January 1853, Mr. Hutton sold the Manor House to Mr. Carli, who envisioned transforming it into a school. This initiative was likely driven by a perceived need among British Catholic parents for quality educational institutions that could provide their sons with an education comparable to the esteemed English Public School System. St. George's College embraced this mission, boasting a teaching staff trained in this very system.
+
+In a progressive move, the school welcomed students of faiths other than Roman Catholicism from the outset. Initially run by the Capuchin Friars, St. George's College saw its first Principal, Reverend Father Barry, welcome the inaugural batch of students in the same year. Thus, the tradition of excellence in education at St. George's College began in British-era Mussoorie.
